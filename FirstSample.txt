@@ -1,1 +1,3 @@
 This is the first sample file, written to commit to github.
+
+changed in this file
